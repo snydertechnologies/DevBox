@@ -1,0 +1,18 @@
+{
+    "profiles": 
+    {
+        "defaults": 
+        {
+            "adjustIndistinguishableColors": "always",
+            "colorScheme": "One Half Dark",
+            "experimental.retroTerminalEffect": false,
+            "font": 
+            {
+                "face": "Fira Mono for Powerline",
+                "size": 14.0,
+                "weight": "normal"
+            }
+        }
+
+    }
+}

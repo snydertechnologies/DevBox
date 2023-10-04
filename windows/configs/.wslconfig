@@ -1,0 +1,7 @@
+[wsl2]
+#memory=4GB  # Limits VM memory in WSL 2 up to 4GB
+#processors=2  # Makes the WSL 2 VM use two virtual processors
+#swap=1GB  # Sets the swap size for WSL 2 up to 1GB
+localhostForwarding=true  # Enables localhost forwarding
+#swapFile=C:\wsl\swap.vhdx  # Sets the path for the WSL 2 swap file
+kernelCommandLine=audit=0  # Disables Linux's audit system (can boost perf. for certain workloads)
